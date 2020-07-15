@@ -1,0 +1,25 @@
+.admintitle {
+    background-color: brown;
+    color: #fff;
+    margin-left: 50px;
+    margin-right:50px;
+    height: 140px;
+    line-height: 140px;
+    font-family: sans-serif;
+}
+.dashboard{
+    border: 1px solid black;
+    border-style: dashed;
+    margin-top: 12px;
+    margin-left: 600px;
+    margin-right: 570px;
+    padding: 12px;
+    font-size: 20px;
+}
+.dashboard a:active{
+    color: darkblue;
+}
+.dashboard a:hover{
+    color: black;
+    background-color: lavender;
+}
